@@ -1,0 +1,9 @@
+*.un~
+state/chunks/*
+state/shmcs/*
+bin/
+lib/
+builds/*/*.config
+builds/*/*/
+builds/*.zip
+hexel.config

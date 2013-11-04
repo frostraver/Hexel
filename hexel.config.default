@@ -1,0 +1,15 @@
+forward             W
+left                A
+backward            S
+right               D
+jump                SPACE
+sprint              C
+createBlock         F
+removeBlock         G
+toggleFocus         V
+gotoDebugBlock      1
+gotoGrassBlock      2
+gotoStoneBlock      3
+gotoWaterBlock      4
+gotoWoodBlock       5
+gotoLeafBlock       6

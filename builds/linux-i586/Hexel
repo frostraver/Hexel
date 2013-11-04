@@ -1,0 +1,4 @@
+#!/bin/bash
+cd "$(dirname "$0")"
+
+java -Xmx8192m -cp bin/Hexel.jar:lib/jogl-all.jar:lib/gluegen.jar:lib/guava-14.0.1.jar -Djava.library.path=lib/linux-i586 Hexel.Hexel
