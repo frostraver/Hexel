@@ -24,11 +24,12 @@ contributing:
 
 1. fork the repository
 2. copy hexel.config.default to hexel.config (or run setup.sh)
-3. make a new git branch
-4. import into eclipse
-5. write code
-6. make commit
-7. submit pull request!
+3. download [lib](https://mega.co.nz/#!t00mABjS!Gyf3DznIZJR-aHdIzVWt-VUZ0ltAltxAHjoeKIjybdY) and extract into lib/
+4. make a new git branch
+5. import into eclipse
+6. write code
+7. make commit
+8. submit pull request!
 
 screenshots:
 -----
